@@ -1,8 +1,6 @@
-FROM anapsix/alpine-java
+FROM centos:7
 
-MAINTAINER Wurstmeister
-
-RUN apk add --update unzip wget curl docker jq coreutils
+RUN yum install unzip wget curl docker jq coreutils
 
 ENV KAFKA_VERSION="0.10.0.1" SCALA_VERSION="2.11"
 ADD download-kafka.sh /tmp/download-kafka.sh
