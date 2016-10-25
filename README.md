@@ -5,7 +5,7 @@
 kafka-docker
 ============
 
-Dockerfile for [Apache Kafka](http://kafka.apache.org/)
+Dockerfile for [Apache Kafka](http://kafka.apache.org/) based on the good work of Wurstmeister.  Wurstmeister's docker image runs on Alpine Linux, this one runs on Centos 7.  There are no further changes.
 
 The image is available directly from https://registry.hub.docker.com/
 
