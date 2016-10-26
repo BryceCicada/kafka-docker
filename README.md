@@ -1,6 +1,6 @@
-[![Docker Pulls](https://img.shields.io/docker/pulls/wurstmeister/kafka.svg)](https://hub.docker.com/r/wurstmeister/kafka/)
-[![Docker Stars](https://img.shields.io/docker/stars/wurstmeister/kafka.svg)](https://hub.docker.com/r/wurstmeister/kafka/)
-[![](https://badge.imagelayers.io/wurstmeister/kafka:latest.svg)](https://imagelayers.io/?images=wurstmeister/kafka:latest)
+[![Docker Pulls](https://img.shields.io/docker/pulls/brycecicada/kafka.svg)](https://hub.docker.com/r/brycecicada/kafka/)
+[![Docker Stars](https://img.shields.io/docker/stars/brycecicada/kafka.svg)](https://hub.docker.com/r/brycecicada/kafka/)
+[![](https://badge.imagelayers.io/brycecicada/kafka:latest.svg)](https://imagelayers.io/?images=brycecicada/kafka:latest)
 
 kafka-docker
 ============
