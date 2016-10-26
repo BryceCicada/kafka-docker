@@ -1,4 +1,4 @@
-FROM centos:7
+FROM nimmis/java-centos:oracle-8-jre
 
 RUN yum -y install epel-release && \
     yum -y install unzip wget curl docker jq coreutils
